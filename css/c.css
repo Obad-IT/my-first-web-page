@@ -165,7 +165,7 @@ body{
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* .main-Services-Experince{
+.main-Services-Experince{
     background-color: #e2e8f0;
         min-height: 70vh;
     display: flex;
@@ -192,7 +192,7 @@ body{
     font-size: 1rem;
     line-height: 2;
     text-align: center;
-} */
+}
 
 .container{
     padding: 10px 20px 40px;
@@ -254,13 +254,12 @@ body{
     line-height: 1.6;
 }
 
-/* .card experience-card:hover{
+.card experience-card:hover{
       background: rgba(255, 255, 255, 0.12);
     border-color: rgba(255, 255, 255, 0.3);
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-} */
-/* ------------------------------------------------ */
+}
 
 .projects-container {
   width: 100%;
@@ -334,7 +333,6 @@ body{
     height: 180px;
   }
 
-  /* ------------------------------------ */
 
 .glass-card {
   background: rgba(80,80,80, 0.5);
@@ -394,9 +392,9 @@ body{
   transition: all 0.3s ease;
 }
 
-/* .social-icons a:hover {
+.social-icons a:hover {
   background: rgba(255, 255, 255, 0.3);
   transform: translateY(-3px);
-} */
+}
 
 
